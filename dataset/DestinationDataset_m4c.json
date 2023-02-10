@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "trip_data_loaded.csv",
+				"fileName": "trip_data_loaded.parquet",
 				"fileSystem": "refind"
 			},
 			"columnDelimiter": ",",
